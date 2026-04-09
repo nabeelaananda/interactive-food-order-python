@@ -26,7 +26,7 @@ Building this project leveled up my understanding of several core Python concept
 * **String Manipulation**: Using .strip(), .lower(), and .title() to clean up unpredictable user input before processing it.
 * **Modularity**: Breaking a large problem into smaller, interconnected "magic boxes" (functions) that rely on arguments and parameters.
 
-##🛠️ Future Improvements (UI/UX Focus)
+## 🛠️ Future Improvements (UI/UX Focus)
 While the current version uses basic string formatting (like \n for newlines and simple strings for borders), my next goal is to level up the terminal aesthetics. Future updates will focus on:
 * **Dynamic Borders**: Creating a custom function that draws ==== or ---- borders that automatically adjust their length based on the text inside them.
 * **Terminal Clearing**: Implementing os.system('clear') (or cls on Windows) to refresh the screen between menu changes, so the terminal doesn't scroll down endlessly.
